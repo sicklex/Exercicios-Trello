@@ -1,0 +1,12 @@
+C:\workspace\Aulas Dev in house\ReactJs\Exercicios React\Exercicios-Trello\M2S06\src\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.csproj.AssemblyReference.cache
+C:\workspace\Aulas Dev in house\ReactJs\Exercicios React\Exercicios-Trello\M2S06\src\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Aulas Dev in house\ReactJs\Exercicios React\Exercicios-Trello\M2S06\src\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.AssemblyInfoInputs.cache
+C:\workspace\Aulas Dev in house\ReactJs\Exercicios React\Exercicios-Trello\M2S06\src\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.AssemblyInfo.cs
+C:\workspace\Aulas Dev in house\ReactJs\Exercicios React\Exercicios-Trello\M2S06\src\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.csproj.CoreCompileInputs.cache
+C:\workspace\Aulas Dev in house\ReactJs\Exercicios React\Exercicios-Trello\M2S06\src\Calculadora\Calculadora\bin\Debug\net6.0\Calculadora.deps.json
+C:\workspace\Aulas Dev in house\ReactJs\Exercicios React\Exercicios-Trello\M2S06\src\Calculadora\Calculadora\bin\Debug\net6.0\Calculadora.dll
+C:\workspace\Aulas Dev in house\ReactJs\Exercicios React\Exercicios-Trello\M2S06\src\Calculadora\Calculadora\bin\Debug\net6.0\Calculadora.pdb
+C:\workspace\Aulas Dev in house\ReactJs\Exercicios React\Exercicios-Trello\M2S06\src\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.dll
+C:\workspace\Aulas Dev in house\ReactJs\Exercicios React\Exercicios-Trello\M2S06\src\Calculadora\Calculadora\obj\Debug\net6.0\refint\Calculadora.dll
+C:\workspace\Aulas Dev in house\ReactJs\Exercicios React\Exercicios-Trello\M2S06\src\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.pdb
+C:\workspace\Aulas Dev in house\ReactJs\Exercicios React\Exercicios-Trello\M2S06\src\Calculadora\Calculadora\obj\Debug\net6.0\ref\Calculadora.dll

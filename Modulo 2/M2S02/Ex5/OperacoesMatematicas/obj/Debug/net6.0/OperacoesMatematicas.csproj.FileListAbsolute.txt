@@ -1,0 +1,12 @@
+C:\workspace\Aulas Dev in house\ReactJs\Exercicios React\Exercicios-Trello\M2S03\Ex5\src\OperacoesMatematicas\OperacoesMatematicas\bin\Debug\net6.0\OperacoesMatematicas.deps.json
+C:\workspace\Aulas Dev in house\ReactJs\Exercicios React\Exercicios-Trello\M2S03\Ex5\src\OperacoesMatematicas\OperacoesMatematicas\bin\Debug\net6.0\OperacoesMatematicas.dll
+C:\workspace\Aulas Dev in house\ReactJs\Exercicios React\Exercicios-Trello\M2S03\Ex5\src\OperacoesMatematicas\OperacoesMatematicas\bin\Debug\net6.0\OperacoesMatematicas.pdb
+C:\workspace\Aulas Dev in house\ReactJs\Exercicios React\Exercicios-Trello\M2S03\Ex5\src\OperacoesMatematicas\OperacoesMatematicas\obj\Debug\net6.0\OperacoesMatematicas.csproj.AssemblyReference.cache
+C:\workspace\Aulas Dev in house\ReactJs\Exercicios React\Exercicios-Trello\M2S03\Ex5\src\OperacoesMatematicas\OperacoesMatematicas\obj\Debug\net6.0\OperacoesMatematicas.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Aulas Dev in house\ReactJs\Exercicios React\Exercicios-Trello\M2S03\Ex5\src\OperacoesMatematicas\OperacoesMatematicas\obj\Debug\net6.0\OperacoesMatematicas.AssemblyInfoInputs.cache
+C:\workspace\Aulas Dev in house\ReactJs\Exercicios React\Exercicios-Trello\M2S03\Ex5\src\OperacoesMatematicas\OperacoesMatematicas\obj\Debug\net6.0\OperacoesMatematicas.AssemblyInfo.cs
+C:\workspace\Aulas Dev in house\ReactJs\Exercicios React\Exercicios-Trello\M2S03\Ex5\src\OperacoesMatematicas\OperacoesMatematicas\obj\Debug\net6.0\OperacoesMatematicas.csproj.CoreCompileInputs.cache
+C:\workspace\Aulas Dev in house\ReactJs\Exercicios React\Exercicios-Trello\M2S03\Ex5\src\OperacoesMatematicas\OperacoesMatematicas\obj\Debug\net6.0\OperacoesMatematicas.dll
+C:\workspace\Aulas Dev in house\ReactJs\Exercicios React\Exercicios-Trello\M2S03\Ex5\src\OperacoesMatematicas\OperacoesMatematicas\obj\Debug\net6.0\refint\OperacoesMatematicas.dll
+C:\workspace\Aulas Dev in house\ReactJs\Exercicios React\Exercicios-Trello\M2S03\Ex5\src\OperacoesMatematicas\OperacoesMatematicas\obj\Debug\net6.0\OperacoesMatematicas.pdb
+C:\workspace\Aulas Dev in house\ReactJs\Exercicios React\Exercicios-Trello\M2S03\Ex5\src\OperacoesMatematicas\OperacoesMatematicas\obj\Debug\net6.0\ref\OperacoesMatematicas.dll

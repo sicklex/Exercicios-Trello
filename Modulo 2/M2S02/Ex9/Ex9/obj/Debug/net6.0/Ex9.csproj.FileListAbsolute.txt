@@ -1,0 +1,12 @@
+C:\workspace\Aulas Dev in house\ReactJs\Exercicios React\Exercicios-Trello\M2S03\Ex9\Ex9\bin\Debug\net6.0\Ex9.deps.json
+C:\workspace\Aulas Dev in house\ReactJs\Exercicios React\Exercicios-Trello\M2S03\Ex9\Ex9\bin\Debug\net6.0\Ex9.dll
+C:\workspace\Aulas Dev in house\ReactJs\Exercicios React\Exercicios-Trello\M2S03\Ex9\Ex9\bin\Debug\net6.0\Ex9.pdb
+C:\workspace\Aulas Dev in house\ReactJs\Exercicios React\Exercicios-Trello\M2S03\Ex9\Ex9\obj\Debug\net6.0\Ex9.csproj.AssemblyReference.cache
+C:\workspace\Aulas Dev in house\ReactJs\Exercicios React\Exercicios-Trello\M2S03\Ex9\Ex9\obj\Debug\net6.0\Ex9.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Aulas Dev in house\ReactJs\Exercicios React\Exercicios-Trello\M2S03\Ex9\Ex9\obj\Debug\net6.0\Ex9.AssemblyInfoInputs.cache
+C:\workspace\Aulas Dev in house\ReactJs\Exercicios React\Exercicios-Trello\M2S03\Ex9\Ex9\obj\Debug\net6.0\Ex9.AssemblyInfo.cs
+C:\workspace\Aulas Dev in house\ReactJs\Exercicios React\Exercicios-Trello\M2S03\Ex9\Ex9\obj\Debug\net6.0\Ex9.csproj.CoreCompileInputs.cache
+C:\workspace\Aulas Dev in house\ReactJs\Exercicios React\Exercicios-Trello\M2S03\Ex9\Ex9\obj\Debug\net6.0\Ex9.dll
+C:\workspace\Aulas Dev in house\ReactJs\Exercicios React\Exercicios-Trello\M2S03\Ex9\Ex9\obj\Debug\net6.0\refint\Ex9.dll
+C:\workspace\Aulas Dev in house\ReactJs\Exercicios React\Exercicios-Trello\M2S03\Ex9\Ex9\obj\Debug\net6.0\Ex9.pdb
+C:\workspace\Aulas Dev in house\ReactJs\Exercicios React\Exercicios-Trello\M2S03\Ex9\Ex9\obj\Debug\net6.0\ref\Ex9.dll

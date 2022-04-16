@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperacoesMatematicas", "OperacoesMatematicas\OperacoesMatematicas.csproj", "{CC33DC85-E40F-4AA9-861D-61B07077E834}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperacoesMatematicas.app", "OperacoesMatematicas.app\OperacoesMatematicas.app.csproj", "{4FDA2B97-3FA7-4007-A6CF-9FB0A5E4F824}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC33DC85-E40F-4AA9-861D-61B07077E834}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC33DC85-E40F-4AA9-861D-61B07077E834}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC33DC85-E40F-4AA9-861D-61B07077E834}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC33DC85-E40F-4AA9-861D-61B07077E834}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FDA2B97-3FA7-4007-A6CF-9FB0A5E4F824}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FDA2B97-3FA7-4007-A6CF-9FB0A5E4F824}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FDA2B97-3FA7-4007-A6CF-9FB0A5E4F824}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FDA2B97-3FA7-4007-A6CF-9FB0A5E4F824}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {140A5CDC-E3CA-47AE-A1B6-9BDCF49BC74C}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,40 @@
+body {
+  background-color: black;
+}
+
+h1 {
+  text-align: center;
+  font-size: 4rem;
+  color: white;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.switch {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-direction: column;
+}
+input[type="button"] {
+  margin-top: 40px;
+  width: 200px;
+  height: 50px;
+  border-radius: 5px;
+  border: 1px solid white;
+  background-color: black;
+  color: white;
+  font-size: 1.5rem;
+  cursor: pointer;
+}
+
+.ligado-img {
+  display: none;
+}
+
+.desligado-img {
+  display: block;
+}

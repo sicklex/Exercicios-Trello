@@ -1,0 +1,36 @@
+section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.main-container {
+  border: 1px solid black;
+  width: 30%;
+  height: 150px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container-a {
+  width: 20%;
+  border: 1px solid black;
+  height: 80px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.container-b {
+  width: 20%;
+  border: 1px solid black;
+  height: 80px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+p {
+  text-align: center;
+}

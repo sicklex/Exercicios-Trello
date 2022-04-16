@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <script src="script.js" defer></script>
+    <title>formulario</title>
+  </head>
+  <body onload="onload()">
+    <div class="main-container">
+      <h1>Endereços</h1>
+      <div class="container-input">
+        <label for="Nome">Nome:</label>
+        <input type="text" placeholder="Nome" id="nome" />
+        <label for="Nome">Sobrenome:</label>
+        <input type="text" placeholder="Nome" id="sobrenome" />
+        <label for="Nome">Email:</label>
+        <input type="email" placeholder="Nome" id="email" />
+        <label for="Nome">Telefone:</label>
+        <input type="tel" placeholder="Nome" id="telefone" />
+        <label for="Nome">Endereço Completo:</label>
+        <input type="text" placeholder="Nome" id="endereco" />
+      </div>
+      <input
+        type="button"
+        value="Novo-formulario"
+        class="btn"
+        onclick="insertLinha()"
+      />
+      <input
+        type="button"
+        value="Salvar"
+        class="btn-salvar"
+        onclick="salvarForm()"
+      />
+      </div>
+      
+    </div>
+    <div>
+      <h3 class="totalForms">
+        Total de formulários:
+      </h3>
+  </body>
+</html>

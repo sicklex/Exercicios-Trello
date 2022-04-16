@@ -1,0 +1,24 @@
+C:\Users\clayd\OneDrive\Área de Trabalho\DevInHouseProject\src\ClassLibrary1\ClassLibrary1\bin\Debug\net6.0\ClassLibrary1.deps.json
+C:\Users\clayd\OneDrive\Área de Trabalho\DevInHouseProject\src\ClassLibrary1\ClassLibrary1\bin\Debug\net6.0\ClassLibrary1.dll
+C:\Users\clayd\OneDrive\Área de Trabalho\DevInHouseProject\src\ClassLibrary1\ClassLibrary1\bin\Debug\net6.0\ClassLibrary1.pdb
+C:\Users\clayd\OneDrive\Área de Trabalho\DevInHouseProject\src\ClassLibrary1\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.csproj.AssemblyReference.cache
+C:\Users\clayd\OneDrive\Área de Trabalho\DevInHouseProject\src\ClassLibrary1\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\clayd\OneDrive\Área de Trabalho\DevInHouseProject\src\ClassLibrary1\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.AssemblyInfoInputs.cache
+C:\Users\clayd\OneDrive\Área de Trabalho\DevInHouseProject\src\ClassLibrary1\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.AssemblyInfo.cs
+C:\Users\clayd\OneDrive\Área de Trabalho\DevInHouseProject\src\ClassLibrary1\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\clayd\OneDrive\Área de Trabalho\DevInHouseProject\src\ClassLibrary1\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.dll
+C:\Users\clayd\OneDrive\Área de Trabalho\DevInHouseProject\src\ClassLibrary1\ClassLibrary1\obj\Debug\net6.0\refint\ClassLibrary1.dll
+C:\Users\clayd\OneDrive\Área de Trabalho\DevInHouseProject\src\ClassLibrary1\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.pdb
+C:\Users\clayd\OneDrive\Área de Trabalho\DevInHouseProject\src\ClassLibrary1\ClassLibrary1\obj\Debug\net6.0\ref\ClassLibrary1.dll
+C:\workspace\Aulas Dev in house\ReactJs\Exercicios React\Exercicios-Trello\M2S03\Ex2\ClassLibrary1\bin\Debug\net6.0\ClassLibrary1.deps.json
+C:\workspace\Aulas Dev in house\ReactJs\Exercicios React\Exercicios-Trello\M2S03\Ex2\ClassLibrary1\bin\Debug\net6.0\ClassLibrary1.dll
+C:\workspace\Aulas Dev in house\ReactJs\Exercicios React\Exercicios-Trello\M2S03\Ex2\ClassLibrary1\bin\Debug\net6.0\ClassLibrary1.pdb
+C:\workspace\Aulas Dev in house\ReactJs\Exercicios React\Exercicios-Trello\M2S03\Ex2\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.csproj.AssemblyReference.cache
+C:\workspace\Aulas Dev in house\ReactJs\Exercicios React\Exercicios-Trello\M2S03\Ex2\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Aulas Dev in house\ReactJs\Exercicios React\Exercicios-Trello\M2S03\Ex2\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.AssemblyInfoInputs.cache
+C:\workspace\Aulas Dev in house\ReactJs\Exercicios React\Exercicios-Trello\M2S03\Ex2\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.AssemblyInfo.cs
+C:\workspace\Aulas Dev in house\ReactJs\Exercicios React\Exercicios-Trello\M2S03\Ex2\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\workspace\Aulas Dev in house\ReactJs\Exercicios React\Exercicios-Trello\M2S03\Ex2\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.dll
+C:\workspace\Aulas Dev in house\ReactJs\Exercicios React\Exercicios-Trello\M2S03\Ex2\ClassLibrary1\obj\Debug\net6.0\refint\ClassLibrary1.dll
+C:\workspace\Aulas Dev in house\ReactJs\Exercicios React\Exercicios-Trello\M2S03\Ex2\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.pdb
+C:\workspace\Aulas Dev in house\ReactJs\Exercicios React\Exercicios-Trello\M2S03\Ex2\ClassLibrary1\obj\Debug\net6.0\ref\ClassLibrary1.dll

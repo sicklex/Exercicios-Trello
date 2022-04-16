@@ -1,0 +1,13 @@
+body {
+  height: 100vh;
+}
+
+section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+img {
+  max-width: 100%;
+}

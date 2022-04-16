@@ -1,0 +1,41 @@
+.main-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.container-input {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: column;
+  width: 100%;
+}
+
+input {
+  width: 20%;
+  height: 40px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  padding: 0 10px;
+  margin-bottom: 10px;
+}
+input::placeholder {
+  color: #ccc;
+}
+label {
+  margin-bottom: 10px;
+  text-align: start;
+  width: 20%;
+}
+
+.btn {
+  cursor: pointer;
+}
+
+h3 {
+  position: absolute;
+  top: 50%;
+  left: 80%;
+}

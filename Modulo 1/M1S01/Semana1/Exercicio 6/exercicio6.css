@@ -1,0 +1,21 @@
+body {
+  background-image: url(https://cdn.ome.lt/QFSLZC5PV1JEr5iP7WOJKVyo0AQ=/837x0/smart/uploads/conteudo/fotos/Metallica01.jpg);
+  background-color: black;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1,
+p {
+  color: white;
+}
+h1 {
+  font-size: 3rem;
+}
+section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 100vh;
+}

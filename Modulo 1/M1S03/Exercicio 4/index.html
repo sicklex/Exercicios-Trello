@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="index.css" />
+    <script src="index.js" defer></script>
+    <title>Document</title>
+  </head>
+  <body>
+    <section class="main-container">
+      <div class="input-output">
+        <input
+          type="number"
+          value=""
+          class="valorTotal"
+          placeholder="Valor Total"
+        />
+        <input
+          type="number"
+          value=""
+          class="porcentagem"
+          placeholder="Desconto em porcentagem"
+        />
+      </div>
+      <div class="button-container">
+        <input
+          type="button"
+          value="Submit"
+          class="submit-btn"
+          onclick="calculaPorcentagem()"
+        />
+      </div>
+      <h3 class="resultado"></h3>
+    </section>
+  </body>
+</html>

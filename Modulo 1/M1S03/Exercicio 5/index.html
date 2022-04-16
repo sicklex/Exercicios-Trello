@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="index.css" />
+    <script src="script.js" defer></script>
+    <title>lampada</title>
+  </head>
+  <body>
+    <main>
+      <div>
+        <h1>Lampada</h1>
+        <div class="container">
+          <div class="switch">
+            <img
+              class="desligado-img"
+              src="https://raw.githubusercontent.com/phmonte/devinhouse/main/Aulas/Javascript/imagens/luz-apagada.png"
+              alt="lampada"
+            />
+            <img
+              class="ligado-img"
+              src="https://raw.githubusercontent.com/phmonte/devinhouse/main/Aulas/Javascript/imagens/luz-acesa.png"
+              alt="Lampada-Acesa"
+              value="on"
+            />
+            <input
+              type="button"
+              id="switch"
+              value="off"
+              onclick="switchbtn()"
+            />
+          </div>
+        </div>
+      </div>
+      <div></div>
+    </main>
+  </body>
+</html>

@@ -1,0 +1,43 @@
+.main_container {
+  width: 100%;
+  margin-bottom: 1rem;
+  color: #212529;
+}
+.table_header {
+  background-color: #343a40;
+}
+
+.table_title {
+  color: #fff;
+  padding: 0.75rem 1rem;
+  text-align: left;
+  text-transform: uppercase;
+}
+.table_description {
+  color: #fff;
+  padding: 0.75rem 1rem;
+  text-align: left;
+}
+.table {
+  width: 100%;
+  margin-bottom: 1rem;
+  color: #212529;
+}
+.table_head {
+  background-color: #343a40;
+  color: #fff;
+  padding: 0.75rem 1rem;
+  text-align: left;
+  text-transform: uppercase;
+}
+
+.table_cell {
+  padding: 0.75rem 1rem;
+  text-align: left;
+}
+
+td {
+  padding: 0.75rem 1rem;
+  text-align: left;
+  border-bottom: 1px solid #e9ecef;
+}
